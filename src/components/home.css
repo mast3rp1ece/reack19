@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body {
+	
+}
+.home_container {
+	color: #e0e0e0;
+	text-align: center;
+}
+p {
+	font-size: 20px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: italic;
+}
+h1 {
+	text-transform: uppercase;
+}
+.main_img {
+	max-width: 70vw;
+	border-radius: 5%;
+}
