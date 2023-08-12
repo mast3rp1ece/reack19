@@ -6,49 +6,13 @@ import Home from './components/Home';
 import Posts from './components/Posts';
 import Photos from './components/Photos';
 import Contacts from './components/Contacts';
-import likeButton from './images/like.svg'
-import commentButton from './images/comment.svg'
-import shareButton from './images/share.svg'
-import downloadButton from './images/download.svg'
+import likeButton from './images/like.svg';
+import commentButton from './images/comment.svg';
+import shareButton from './images/share.svg';
+import downloadButton from './images/download.svg';
+import contacts from './components/ContactData';
 
-const contacts = [
-  {
-    firstName: "Барней",
-    lastName: "Стинсовський",
-    phone: "+380956319521",
-    gender: "male"
-  },
-  {
-    firstName: "Робін",
-    lastName: "Щербатська",
-    phone: "+380931460123",
-    gender: "female"
-  },
-  {
-    firstName: "Анонімний",
-    lastName: "Анонімус",
-    phone: "+380666666666",
-    gender: "unspecified"
-  },
-  {
-    firstName: "Лілія",
-    lastName: "Олдровна",
-    phone: "+380504691254",
-    gender: "female"
-  },
-  {
-    firstName: "Маршен",
-    lastName: "Еріксонян",
-    phone: "+380739432123",
-    gender: "male"
-  },
-  {
-    firstName: "Теодор",
-    lastName: "Мотсбес",
-    phone: "+380956319521",
-    gender: "male"
-  }
-];
+
 
 const NATURE_IMAGE =
   'https://static.vecteezy.com/system/resources/previews/022/448/291/original/save-earth-day-poster-environment-day-nature-green-ai-generative-glossy-background-images-tree-and-water-free-photo.jpg';
